@@ -4,6 +4,7 @@ The directors name is giver weightage of 3 while cast and tags are given a weigh
 
 ## Usage
 Run 'Movie_reccomender.ipynb' in ipython notebook , preferably jupyter notebook. Then run the function with the name of the movie you wish like as in the example to get your reccomendations. 
+- You can open 'Movie_reccomender.ipynb' in github to see some examples done with this model.
 - 'MovieRecFull.ipynb' is the original file used to develop this model with previous models included.he files imported in the file are not included due to size constraints. 
 
 ## Disclaimer
